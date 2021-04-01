@@ -1,5 +1,7 @@
 # Happy-gitting-
 
+Hi my name is Mahathi
+
 Just try out the git thing and enjoy gitting!
 
 Here is a cute dolphin:
